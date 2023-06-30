@@ -5,6 +5,7 @@
     box-sizing: border-box;
     font-family: 'Poppins',
     sans-serif;
+    text-align: center;
 }
 /* -------------------------------------------------------------------------------------- */
  /* home-section */
@@ -136,6 +137,7 @@ nav ul li a:hover{
     
         top: -156px;
         left: -481px;
+        height: 118%;
     }
 
     nav {
